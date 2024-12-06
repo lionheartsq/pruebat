@@ -16,5 +16,5 @@ La vista que muestre los datos que se leen desde la tabla debe actualizarse sin 
 
 ## Adicionales
 
-Se valorará cualquier variante que muestre reactividad.
+Se valorará cualquier variante que demuestre reactividad.
 
